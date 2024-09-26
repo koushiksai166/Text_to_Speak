@@ -1,0 +1,22 @@
+.box { 
+    background-color: snow;
+    width: max-content;
+    box-shadow: 0 0 100px greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 100px;
+    border-radius: 10px;
+}
+button {
+    background-color: grey;
+    color: snow;
+    padding: 15px;
+    border-radius: 10px;
+}
+body {
+    background-color: black;
+}
